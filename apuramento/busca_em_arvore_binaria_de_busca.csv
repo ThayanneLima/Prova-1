@@ -1,0 +1,11 @@
+Arranjo,Tipo de Teste,Média Tempo (μs),Desvio Padrão Tempo (μs),Média Comparações,Desvio Padrão Comparações,Média Memória (bytes),Desvio Padrão Memória (bytes)
+100000,Pior Cenário,22,6,15,0,43246933,32825
+1000000,Pior Cenário,19,10,15,0,226107392,0
+200000,Pior Cenário,23,5,13,0,63725568,0
+300000,Pior Cenário,29,12,16,0,84058112,0
+400000,Pior Cenário,16,5,9,0,104460288,0
+500000,Pior Cenário,23,9,17,0,124604416,0
+600000,Pior Cenário,20,8,13,0,145027072,0
+700000,Pior Cenário,11,4,9,0,165322752,0
+800000,Pior Cenário,21,10,11,0,185651200,0
+900000,Pior Cenário,13,3,14,0,205959168,0
